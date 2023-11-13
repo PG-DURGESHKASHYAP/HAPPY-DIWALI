@@ -22,6 +22,7 @@ span{
     left: 10%;
     top: 10%;
     box-shadow: 0 0 2.5vw black;
+    border-radius: 4vw;
 }
 #s1{
      position: absolute;
